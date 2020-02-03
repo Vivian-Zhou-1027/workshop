@@ -8,7 +8,7 @@ Isabella DiFulvio
 
 ## Workshop
 
-1. 
+1. [Path of an Amazon Truck Driver](https://github.com/ixdifulvio/workshop/blob/master/Path_of_an_Amazon_Truck.png) (Feb.2)
 
 ## Project 1
 
