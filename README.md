@@ -15,4 +15,6 @@ Isabella DiFulvio
 
 ## Project 1
 
-1. [Administrative Subdivisions of China](https://github.com/ixdifulvio/workshop/blob/master/project1.md)(Feb.12)
+1. [Administrative Subdivisions of Papua New Guinea](https://github.com/ixdifulvio/workshop/blob/master/png.png)(Feb.20)
+2. [Population of Papua New Guinea Extracted from a Raster](https://github.com/ixdifulvio/workshop/blob/master/png_pop19.png)(Feb.20)
+3. [Geometric Bar Plot with my Simple Feature Object](https://github.com/ixdifulvio/workshop/blob/master/Papua_plots.png)(Feb.20)
